@@ -10,10 +10,4 @@ print("Hola mundo")
 print(David)
 
 
-
-
-
-
-
-
-  print("Ivan imprimete porfavor")
+print("Mucha tecnologia para usted")
