@@ -8,8 +8,16 @@ print("Hola mundo")
   >>>>>>> practice
   
 print("David")
-print ("Miguel Fernando San Sebastian")
 
+
+
+
+
+print("Rodrigo")
+
+sebas = 58
+if(sebas > 40)
+  print("Es un señor mayor")
 
     
 num1= 23
